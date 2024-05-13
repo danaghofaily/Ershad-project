@@ -6,3 +6,5 @@ Our project Ershad which means (guidance in Arabic) aims to create a comprehensi
 Scope: 
 
 The major aim of Ershad is to design and develop a substantive website that highlights Riyadh and Alula as the best tourist destinations within Saudi Arabia. with useful information about local businesses, events and attractions in addition to a tour guide. The website will enrich visitor’s overall experience by advising them on what places to visit and how to navigate through them while also getting culturally involved.
+
+Hello World!
